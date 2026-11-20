@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Demographic Bias Assessment and Mitigation in Text-to-Image Models
+# Demographic Bias in Text-to-Image Generation: A Cross-Model Assessment of Occupational Stereotypes and Mitigation Strategies
 
 ### A Unified Framework for Detection, Quantification, Mitigation, and Re-Evaluation
 
